@@ -3,6 +3,7 @@
 <p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/Kakfa-F2F2F2?style=for-the-badge&logo=Apache&logoColor=black" />
 </p>
 
 > This project is a simple implementation of Kafka with Spring that have one producer, which send messages to one topic, and two consumers which receive these messages.
